@@ -1,0 +1,22 @@
+1. 
+
+| Value    | Frequency    | Cumulative   |
+|----------|--------------|--------------|
+| 1        | 3            | 3            |
+| 10       | 1            | 4            |
+| 12       | 2            | 6            |
+| 66       | 2            | 8            |
+| 75       | 1            | 9            |
+| 97       | 1            | 10           |
+
+Most frequently viewed film: 1 (viewed 3 times)
+
+2.
+
+Mode: 1
+Median: 12.0
+
+3.
+
+Variance: 1250.890000
+Standard Deviation: 35.367923
