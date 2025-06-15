@@ -1,0 +1,38 @@
+1.
+
+Q1 : 64.25
+Q3 : 91.25
+P90 : 99.50
+
+2.
+
+Mean: 74.20
+Standard Deviation: 17.17
+
+3.
+
+Transformation formula: y = 0.194x + 80.620
+Original grades: [40, 65, 62, 70, 100, 90, 66, 70, 95, 84]
+Transformed grades: [88.4, 93.2, 92.6, 94.2, 100.0, 98.1, 93.4, 94.2, 99.0, 96.9]
+Original mean: 74.20 -> Transformed mean: 95.00
+Original std dev: 17.17 -> Transformed std dev: 3.33
+
+4.
+
+Stem-and-Leaf Plot (Original):
+Stem | Leaf
+-----|-----
+   4 | 0
+   6 | 2 5 6
+   7 | 0 0
+   8 | 4
+   9 | 0 5
+  10 | 0
+
+Stem-and-Leaf Plot (Transformed):
+Stem | Leaf
+-----|-----
+   8 | 8
+   9 | 2 3 3 4 4 6 8 9
+  10 | 0
+
