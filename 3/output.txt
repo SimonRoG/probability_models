@@ -1,0 +1,6 @@
+Number of points M = 12
+Center of gravity (mean_x, mean_y): (3.891667, 35.000000)
+Covariance: 23.000000
+Regression equation: y = -3.735387 + 9.953418·x
+Correlation coefficient: 0.901001
+Trend: positive
